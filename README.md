@@ -21,8 +21,8 @@ git clone https://github.com/seu-usuario/buscador-github.git
 
 ## Explore o Design ##
 
-<img src="../projeto-inicial-fetch-github-api/github-desktop.jpg">
-<img src="../projeto-inicial-fetch-github-api/mobile.jpg">
+<img src="./github-desktop.jpg">
+<img src="./mobile.jpg">
 
 
 ### Contribuindo:
