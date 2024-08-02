@@ -22,7 +22,10 @@ git clone https://github.com/seu-usuario/buscador-github.git
 ## Explore o Design ##
 
 <img src="./github-desktop.jpg">
+<img src="./assets1.jpg">
+<img src="./assets2.jpg">
 <img src="./mobile.jpg">
+<img src="./assets3.jpg">
 
 
 ### Contribuindo:

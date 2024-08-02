@@ -1,0 +1,166 @@
+@media (max-width: 1280px) {
+    .container {
+        /* flex-direction: column; */
+        width: 90%;
+        border-radius: 20px;
+    }
+
+    .container header {
+        width: 100%;
+    }
+
+    .container header h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 892px) {
+
+    .container .profile-data .info .data {
+        width: 100%;
+        /* background-color: aqua; */
+    }
+
+
+    .container .profile-data .info img {
+        width: 90%;
+        margin-left: 20px;
+    }
+
+    .container .profile-data .info {
+        /* display: flex; */
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .container .profile-data .info h1 {
+        font-size: 34px;
+        margin-bottom: 10px;
+
+    }
+
+    .container .profile-data .info p {
+        font-size: 24px;
+        padding: 10px;
+
+    }
+
+
+    .container header #input-search,
+    .container header #btn-search {
+        width: 100%;
+    }
+
+
+
+
+    .container .followers-following {
+        margin-right: 50px;
+        display: flex;
+        text-align: center;
+        width: 100%;
+    }
+
+    .container .followers-following p {
+        padding: 10px;
+
+    }
+
+    .events.section h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+
+    .events.section ul li {
+        line-height: 25px;
+        font-size: 18px;
+    }
+
+}
+
+
+
+@media (max-width: 570px) {
+    .container .profile-data .info img {
+        width: 80%;
+        margin: 0;
+
+    }
+
+    .container .profile-data .info h1 {
+        font-size: 32px;
+    }
+
+    .container .profile-data .info p {
+        font-size: 20px;
+    }
+
+    .events.section ul li {
+        font-size: 15px;
+    }
+
+}
+
+@media (max-width: 460px) {
+    .container .profile-data .info img {
+        width: 60%;
+    }
+
+    .container .profile-data .info h1 {
+        font-size: 30px;
+    }
+
+    .container .profile-data .info p {
+        font-size: 16px;
+    }
+
+    .events.section {
+        width: 100%;
+
+    }
+
+    .events.section h2 {
+        font-size: 26px;
+    }
+
+    .repositories.section {
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 390px) {
+
+    .container {
+        width: 80%;
+    }
+
+    .container .profile-data .info .data {
+        width: 90%;
+    }
+
+    .container .profile-data .info p {
+        font-size: 14px;
+    }
+
+
+
+
+
+    .events.section ul li {
+        font-size: 10px;
+        margin: 0;
+        
+    }
+
+
+    .repositories.section {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+
+
+}

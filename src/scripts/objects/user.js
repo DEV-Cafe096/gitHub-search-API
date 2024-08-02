@@ -14,8 +14,20 @@ const user = {
     },
     setRepositories(repositories){
         this.repositories = repositories
-    }
+    },
+    setFollowers(followers){
+        this.followers = followers
 
+    },
+
+    setFollowing(following){
+        this.following = following
+    },
+
+    setEvents(events){
+        this.events = events
+    }
+    
 }
 
 export { user }
